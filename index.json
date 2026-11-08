@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2026-respgen-respeval",
+  "versions": [
+    {
+      "commit": "0e1a3cbc290939e4f6a2a12bd9bda3fa7806cb22",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:17:41.766827+00:00"
+    }
+  ]
+}
